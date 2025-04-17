@@ -1,3 +1,5 @@
+## This function is implementing Common Average Referencing for EEG data
+
 function signal = car(eeg)
 
         signal = [];
