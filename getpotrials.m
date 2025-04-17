@@ -1,3 +1,6 @@
+%% This function is used to extract eeg data from the electrodes contralateral to the distractor 
+position on the screen
+
 
 function [signal8,signal7,signaln7] = getpotrials(eeg,index8,index7,indexn7)
 
