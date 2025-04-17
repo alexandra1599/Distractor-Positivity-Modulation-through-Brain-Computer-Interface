@@ -1,3 +1,5 @@
+## This function is to get the trials at channels PO7/PO8 where we expect to see the distractor positivity signal
+
 function signal = potrial(eeg,index,type)
 
 if type == 7
